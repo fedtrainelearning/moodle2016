@@ -27,7 +27,7 @@
  * @authors   Shaun Daubney
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-$THEME->enable_dock = true;
+$THEME->enable_dock = true; // Matt edit
 $THEME->name = 'aardvark';
 $THEME->doctype = 'html5';
 $THEME->parents = array('bootstrapbase');
